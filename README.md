@@ -18,3 +18,6 @@ You can support the development of VisionCamera by [sponsoring **@mrousavy** on 
 Изменение A для branch2
 Изменение B для branch2
 Изменение C для branch2
+Изменение 1 для branch1
+Изменение 2 для branch1
+Изменение 3 для branch1
